@@ -2,6 +2,8 @@
 
 A method of running PPPwn on an OpenWRT-based router.
 
+## I AM NOT RESPONSIBLE FOR ANY BRICKED SYSTEMS IF THAT HAPPENS, USE AT YOUR OWN RISK, OR USE MODDED WARFARES ONE ##
+
 ## Supported Routers
 
 You can check to see if your router is supported [here](https://openwrt.org/toh/start).
